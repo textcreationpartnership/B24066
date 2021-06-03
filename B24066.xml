@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Heads of some of those advantages this nation might enjoy, by encouraging the tobacco trade to Russia, and the loss it suffers by fetching our naval stores from the Suede's dominions.</title>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B24066</idno><idno type="EEBO-CITATION">99885632</idno>
+  <idno type="VID">185475</idno>
+  <idno type="EEBO-PROQUEST">2248538237</idno>
+  
+            <idno type="STC">Wing H1291A</idno>
+            <idno type="STC">Interim Tract Supplement Guide 816.m.14[22]</idno>
+            <idno type="STC">ESTC R224747</idno>
+            <idno type="PROQUEST">ocm99885632</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99885632e"/>
+            <note>(EEBO-TCP ; phase 2, no. B24066)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 185475)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C1:3[22])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Heads of some of those advantages this nation might enjoy, by encouraging the tobacco trade to Russia, and the loss it suffers by fetching our naval stores from the Suede's dominions.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1700]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Tobacco --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  Commerce --  Russia --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:185475:1"/>
+            <pb facs="tcp:185475:1"/>
+            <head>Heads of some of those Advanta<g ref="char:EOLhyphen"/>ges this Nation might enjoy, by encouraging the Tobacco Trade to <hi>Russia,</hi> and the Loss it suffers by fetching our Naval Stores from the <hi>Suede</hi>'s Dominions.</head>
+            <p n="1">I. WE might probably in a short time Vend in <hi>Russia,</hi> 5000 Hogsheads a Year, which may yield there 120000<hi>l.</hi> over and above the <hi>Czar</hi>'s Custom, and would be so much new Addition to the Nations Stock,</p>
+            <p n="2">II. The Spinning and Manufacturing that Tobacco here, in <hi>England,</hi> would give a new Employment to above 1500 people, besides those that would be employ'd in Planting, Packing, <hi>&amp;c.</hi> of it, in <hi>Virginia,</hi> and Ships and Sea-men to bring it from thence.</p>
+            <p n="3">III. The Manufacturing of it here, and other petty Charges upon 5000 Hogsheads, will amount to upwards of 26000<hi>l.</hi> which will be distributed amongst our Labouring Peo<g ref="char:EOLhyphen"/>ple.</p>
+            <p n="4">IV. The Carrying so much Tobacco to <hi>Russia,</hi> and bringing Returns from thence; for it will give a new Imployment to a great number of our Ships and Sea-men.</p>
+            <p n="5">V. His Majesty's Revenue will be encreased between 5 and 6000<hi>l. per Annum,</hi> by one half of the Subsidy that will not be drawn back; for tho' some People may fancy, that the Exportation of 5000 Hogsheads of Tobacco Yearly, in a new Trade, will lessen the King's Revenues by the Custom to be Repay'd upon them; yet if they consider, that no more nor less Tobacco will be consumed here, by our Carrying, or not Carrying Tobacco to <hi>Russia,</hi> and that His Majesty keeps only the full Custom, of what we con<g ref="char:EOLhyphen"/>sume at Home, they will be of another Opinion; Besides 'tis certain, the greater Vent we have for Tobacco here, the better Price 'twill yield, and consequently encourage the Planting of more in <hi>Virginia,</hi> where there is Land enough to produce more Tobacco than all <hi>Europe</hi> can consume; and undoubtedly the Planters will make Improvements in their Plantations, proportionably to the Encouragement they have from hence. These Consi<g ref="char:EOLhyphen"/>derations may satisfie any Man, that His Majesty cannot suffer any Dimuni<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ion in His Customs, by encouraging the Exportation of Tobacco to <hi>Russia,</hi> but on the contrary en<g ref="char:EOLhyphen"/>crease them, as hath been observed above.</p>
+            <p n="6">VI. If this Trade be encouraged, we shall bring the greatest part of our Naval Stores from <hi>Russia</hi> in our own Shipping; whereas now, we have almost all those Stores brought us from <hi>Sueden,</hi> and in <hi>Suede</hi>'s Ships, by which this Nation suffers several ways: As,</p>
+            <list>
+               <item>1. We give the <hi>Suedes</hi> a greater Price for Naval Stores, than they can be bought for in <hi>Russia,</hi> which difference in the Prime Cost, is so much loss to the Nation.</item>
+               <item>2. The Nation loseth all the Fraight we pay the <hi>Suedes,</hi> which is in some sort of Goods, almost as much as their first cost.</item>
+               <item>3. By Employing <hi>Suedes,</hi> we discourage our own, and encourage their Navigation.</item>
+               <item>4. The <hi>Suedes</hi> take little of our Manufactures, therefore we are forced to send out our Mony to purchase their Goods: which in <hi>Russia</hi> might be bought with the proceed of our Tobacco, <hi>&amp;c.</hi>
+               </item>
+               <item>5. By depending wholly on the <hi>Suedes</hi> for our Naval Stores, we put our Selves in their power and the <hi>Danes,</hi> to shut up the <hi>Sound,</hi> and to hinder us from such a supply of them, as may be absolutely needful for us in Time of War.</item>
+            </list>
+            <p>And <hi>lastly,</hi> the <hi>Suedes</hi> put very great hardships upon our Merchants, and Shipping in the Ports of <hi>Sueden,</hi> whereas had we an opportunity of getting our Naval Stores in <hi>Russia,</hi> and bringing them home in our own Ships, we might bring the <hi>Suedes</hi> to such a Treaty of Commerce, as would be advantagious to us, both with respect to our Shipping and Manufactures, and Liberty for our Merchants to reside in their Countrey, which now they are not permitted to do above 4 months in the year.</p>
+            <p>This Nation hath now Liberty for a Free Importation of our Tobacco into <hi>Russia,</hi> purchased by private persons for a very large Sum: A priviledge that hath been long wished for by those that have studied the advantages of Foreign Trade, but never grant<g ref="char:EOLhyphen"/>ed to any people or Nation before; and if made use of, will doubtless turn the Ballance of all our Northern Trade in our favour: which hath been, is at present, and without this new Trade, is like to continue very much to our disadvantage. And if the Under<g ref="char:EOLhyphen"/>takers have not suitable encouragement here at home, to enable them to perform their part of the Contract with the C'zar; it is more than probable the C'zar will take that Advantage, to make void his Grant, and never more put into our hands, a Prize we once despised and neglected.</p>
+         </div>
+      </body>
+      <back>
+         <div type="half_title">
+            <pb facs="tcp:185475:2"/>
+            <pb facs="tcp:185475:2"/>
+            <p>HEADS of Advan<g ref="char:EOLhyphen"/>tages this Nation might enjoy, by Encouraing the Tobacco Trade to <hi>Russia.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
